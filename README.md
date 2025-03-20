@@ -34,5 +34,4 @@ This command grants execute permissions to the file, allowing it to be run as a 
 ````
 ./Alien_Attack.x86_64
 ````
-./Alien_Attack.x86_64
 Make sure you're in the correct directory where the game file is located, or provide the full path to the executable.
