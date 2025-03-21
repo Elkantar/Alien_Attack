@@ -1,29 +1,36 @@
-# Alien_Attack
+# **Alien Attack**  
 
-   This game was create by following the course on gamedev.tv "Complete Godot 4 2D: Code Your Own 2D Games In Godot 4!"
-    ![Image](image/game.png)
+This game was created by following the **GameDev.tv** course:  
+🎓 *"Complete Godot 4 2D: Code Your Own 2D Games In Godot 4!"*  
 
-## Objective 
-    
-   In Alien Attack, the player controls a spaceship and must shoot down incoming enemies while avoiding their attacks. The goal is to survive as long as possible and eliminate as many aliens as possible
+![Game Screenshot](image/game.png)  
 
-## Control 
+---  
 
-### Movement 
-    Arrow Key
-    ZQSD
-    space : shoot
+## 🚀 **Objective**  
 
-## Available 
-     Windows
-     Linux
+In **Alien Attack**, you control a spaceship and must shoot down incoming enemies while dodging their attacks.  
+🎯 **Goal**: Survive as long as possible and eliminate as many aliens as you can!  
 
-## Download
+---  
 
-[Alien Attack(Window)](https://github.com/Elkantar/Alien_Attack/releases/download/Alien_Attack_1.0/Alien_Attack_Windows.zip)   
-   [Alien Attack(Linux)](https://github.com/Elkantar/Alien_Attack/releases/download/Alien_Attack_1.0/Alien_Attack_Linux.zip)
+## 🎮 **Controls**  
 
-## linux 
+- **Move**: Arrow Keys / ZQSD  
+- **Shoot**: Spacebar  
+
+---  
+
+## 📥 **Download**  
+
+✅ **Available for**: **Windows** & **Linux**  
+
+🔗 **[Download for Windows](https://github.com/Elkantar/Alien_Attack/releases/download/Alien_Attack_1.0/Alien_Attack_Windows.zip)**  
+🔗 **[Download for Linux](https://github.com/Elkantar/Alien_Attack/releases/download/Alien_Attack_1.0/Alien_Attack_Linux.zip)**  
+
+---  
+
+## 🐧 **Linux Setup**  
 Giving Permissions to Run the Game
 
 Before you can run the game, you'll need to give the executable file proper permissions. You can do this by using the following command in your terminal:
@@ -34,4 +41,4 @@ This command grants execute permissions to the file, allowing it to be run as a 
 ````sh
 ./Alien_Attack.x86_64
 ````
-Make sure you're in the correct directory where the game file is located, or provide the full path to the executable.
+📌 Make sure you're in the correct directory where the file is located, or provide the full path to the executable.
