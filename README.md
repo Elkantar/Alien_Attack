@@ -27,11 +27,11 @@
 Giving Permissions to Run the Game
 
 Before you can run the game, you'll need to give the executable file proper permissions. You can do this by using the following command in your terminal:
-````
+````bash
 chmod +x Alien_Attack.x86_64
 ````
 This command grants execute permissions to the file, allowing it to be run as a program. After running this command, you can execute the game by using the following:
-````
+````bash
 ./Alien_Attack.x86_64
 ````
 Make sure you're in the correct directory where the game file is located, or provide the full path to the executable.
